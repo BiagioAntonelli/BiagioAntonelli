@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on optimising Food Delivery experiences with ML and AI at @glovo
+- 🌱 I am passionate about Deep Learning and Geneative AI applications, currently experimenting with Stable Diffusion 🖼️ RAG and Agentic Patterns with LLMs 📖🤖
+- 👨‍🎓 I studied Artificial Intelligence at The University of Edinburgh
+
 <!--
 **BiagioAntonelli/BiagioAntonelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +16,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- 👨‍🎓
 - ⚡ Fun fact: ...
 -->
