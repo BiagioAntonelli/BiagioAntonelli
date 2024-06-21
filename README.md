@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Biagio 👋
 
 - 🔭 I’m currently working on optimising Food Delivery experiences with ML and AI at @glovo
 - 🌱 I am passionate about Deep Learning and Geneative AI applications, currently experimenting with Stable Diffusion 🖼️ RAG and Agentic Patterns with LLMs 📖🤖
