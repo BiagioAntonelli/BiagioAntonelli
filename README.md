@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - 👨‍🎓
 - ⚡ Fun fact: ...
 -->
+
+
+🧪 You can find some of my published work [here](https://biagioantonelli.github.io/about/).
