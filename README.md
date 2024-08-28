@@ -1,7 +1,7 @@
 ## Hi there, I am Biagio 👋
 
 - 🔭 I’m currently working on optimising Food Delivery experiences with ML and AI at @glovo
-- 🌱 I am passionate about Deep Learning and Geneative AI applications, currently experimenting with Diffusion Models 🖼️ (check my [app](https://replace-me.com/))RAG and Agentic Patterns with LLMs 📖🤖
+- 🌱 I am passionate about Deep Learning and Geneative AI applications, currently experimenting with Diffusion Models 🖼️ (check my [app](https://replace-me.com/)) RAG and Agentic Patterns with LLMs 📖🤖
 - 👨‍🎓 I studied Artificial Intelligence at The University of Edinburgh
 
 <!--
